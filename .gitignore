@@ -1,0 +1,8 @@
+movie/
+*.jld2
+*.h5
+*.pdf
+*.eps
+*.vtk
+.DS_Store
+*.vtu
